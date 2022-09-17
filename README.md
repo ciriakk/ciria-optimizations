@@ -1,4 +1,5 @@
 # ciria's optimization 1.19x
+![image](https://user-images.githubusercontent.com/77357036/190875366-a82d7059-bd6c-44f8-8260-8388ad4f3221.png)
 
 Modpack personalizado com foco em otimizações para as novas versões baseado em Fabric, inicialmente feito para uso próprio, mas que me deu vontade de deixar público.
 
