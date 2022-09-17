@@ -36,3 +36,7 @@ extraindo manualmente os arquivos na sua pasta .minecraft , excluindo apenas os 
 ## As mudanças são realmente significativas? 
 
 Sim e não, via depender muito de seu hardware e seu sistema operacional, mas em 95% dos casos acontece um ganho em questões de performance e de utilização de ram/cpu, diminuindo em 15% o uso deles.
+
+## Posso colocar mais mods nos arquivos do meu jogo?
+
+Claro que sim, mas se acontecer qualquer erro, é por sua culpa! não tente abrir um issue sem os mods listados acima (e somente eles) instalados!
