@@ -21,7 +21,7 @@ Criei este repositório por achar a maioria dos modpacks focados em otimizaçõe
 * Memory Leak Fix(https://modrinth.com/mod/memoryleakfix) feito por fxmorin;
 * Mod Menu(https://modrinth.com/mod/modmenu) feito por Prospector;
 * More Culling(https://modrinth.com/mod/moreculling) feito por fxmorin;
-* Ok Zoomer(https://modrinth.com/mod/ok-zoomer) zoom do optifine com suporte ao Sodium, feito por Ennui;
+* Ok Zoomer(https://modrinth.com/mod/ok-zoomer) zoom do optifine com suporte ao Quilty, feito por Ennui;
 * Sodium(https://modrinth.com/mod/sodium) feito por jellysquid3;
 * Sodium Extra(https://modrinth.com/mod/sodium-extra) feito por FlashyReesse;
 * Starlight(https://modrinth.com/mod/starlight) feito por spottedleaf;
