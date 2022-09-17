@@ -29,9 +29,9 @@ Criei este repositório por achar a maioria dos modspacks focados em otimizaçõ
 
 ## Como instalar?
 
-Existem dois jeitos (até agora) 
-via MultiMc/PolyMC (recomendado)
-extraindo manualmente os arquivos na sua pasta .minecraft , excluindo apenas os arquivos instances.cfg e mmc-pack.json
+Existem dois jeitos (até agora): 
+* via MultiMc/PolyMC (recomendado)
+* extraindo manualmente os arquivos na sua pasta .minecraft , excluindo apenas os arquivos instances.cfg e mmc-pack.json
 
 ## As mudanças são realmente significativas? 
 
