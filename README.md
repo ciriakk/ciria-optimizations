@@ -1,6 +1,6 @@
 # ciria's optimization 1.19x
 
-Modpack personalizado com foco em otimizações para as novas versões baseado em Fabric.
+Modpack personalizado com foco em otimizações para as novas versões baseado em Fabric, inicialmente feito para uso próprio, mas que me deu vontade de deixar público.
 
 ## Por quê? 
 
@@ -40,3 +40,8 @@ Sim e não, vai depender muito de seu hardware e seu sistema operacional, mas em
 ## Posso colocar mais mods nos arquivos do meu jogo?
 
 Claro que sim, mas se acontecer qualquer erro, é por sua culpa! não tente abrir um issue sem os mods listados acima (e somente eles) instalados!
+
+
+## Pretende usar Optifine no futuro?
+
+Nesse repositório vou apenas usar projetos Open Source, em um repositório futuro posso trazer um modpack usando Optifine.
