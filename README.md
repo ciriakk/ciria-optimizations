@@ -8,6 +8,6 @@ Criei este repositório por achar a maioria dos modspacks focados em otimizaçõ
 
 
 ## Lista de mods
-Carpet Fix(https://modrinth.com/mod/carpet-fixes/version/v1.7.5) feito por fxmorin;
-Dynamic FPS(https://modrinth.com/mod/dynamic-fps) feito pelo juliand665;
-Enhanced Block Entities(https://modrinth.com/mod/ebe) feito pelo time FoundationGames;
+* Carpet Fix(https://modrinth.com/mod/carpet-fixes/version/v1.7.5) feito por fxmorin;
+* Dynamic FPS(https://modrinth.com/mod/dynamic-fps) feito pelo juliand665;
+* Enhanced Block Entities(https://modrinth.com/mod/ebe) feito pelo time FoundationGames;
