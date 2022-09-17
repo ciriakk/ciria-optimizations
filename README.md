@@ -1,4 +1,4 @@
-# ciria's optimization 1.19x
+# ciria's optimization 1.19.2
 
 Modpack personalizado com foco em otimizações para as novas versões baseado em Fabric.
 
