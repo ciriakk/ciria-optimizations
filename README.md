@@ -11,7 +11,7 @@ Criei este repositório por achar a maioria dos modspacks focados em otimizaçõ
 * Carpet Fix(https://modrinth.com/mod/carpet-fixes/version/v1.7.5) feito por fxmorin;
 * Dynamic FPS(https://modrinth.com/mod/dynamic-fps) feito pelo juliand665;
 * Enhanced Block Entities(https://modrinth.com/mod/ebe) feito pelo time FoundationGames;
-* Fabric API (para compatibilidade);
+* Fabric API (https://modrinth.com/mod/fabric-api para compatibilidade);
 * FastLoad(https://modrinth.com/mod/fastload) feito por FluffyBumblebees;
 * FerriteCore(https://modrinth.com/mod/ferrite-core) feito por malte0811;
 * Forget me Chunk(https://modrinth.com/mod/forgetmechunk) feito por BreadLoaf;
