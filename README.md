@@ -35,7 +35,7 @@ Existem dois jeitos (até agora):
 
 ## As mudanças são realmente significativas? 
 
-Sim e não, via depender muito de seu hardware e seu sistema operacional, mas em 95% dos casos acontece um ganho em questões de performance e de utilização de ram/cpu, diminuindo em 15% o uso deles.
+Sim e não, vai depender muito de seu hardware e seu sistema operacional, mas em 95% dos casos acontece um ganho em questões de performance e de utilização de ram/cpu, diminuindo em 15% o uso deles.
 
 ## Posso colocar mais mods nos arquivos do meu jogo?
 
