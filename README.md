@@ -5,7 +5,7 @@ Modpack personalizado com foco em otimizações para as novas versões baseado e
 
 ## Por quê? 
 
-Criei este repositório por achar a maioria dos modpacks focados em otimizações para o jogo meio ruins, e quis fazer algo para mim e meus amigos.
+Criei este repositório por achar a maioria dos modpacks focados em otimizações para o jogo ruins, e quis fazer algo para mim e meus amigos.
 
 
 ## Lista de mods
