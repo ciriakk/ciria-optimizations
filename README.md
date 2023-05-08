@@ -9,9 +9,9 @@ Criei este repositório por achar a maioria dos modpacks focados em otimizaçõe
 
 
 ## Lista de mods
-* [Carpet Fix](https://modrinth.com/mod/carpet-fixes/version/v1.7.5) feito por fxmorin;
+* [Carpet Fix](https://modrinth.com/mod/carpet-fixes/version/v1.7.5) feito por fxmorin; (REMOVIDO TEMPORARIAMENTE)
 * [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) feito pelo juliand665;
-* [Enhanced Block Entities](https://modrinth.com/mod/ebe) feito pelo time FoundationGames;
+* [Enhanced Block Entities](https://modrinth.com/mod/ebe) feito pelo time FoundationGames; (REMOVIDO TEMPORARIAMENTE)
 * [Fabric API](https://modrinth.com/mod/fabric-api) para compatibilidade;
 * [FastLoad](https://modrinth.com/mod/fastload) feito por FluffyBumblebees;
 * [FerriteCore](https://modrinth.com/mod/ferrite-core) feito por malte0811;
@@ -22,7 +22,7 @@ Criei este repositório por achar a maioria dos modpacks focados em otimizaçõe
 * [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) feito por fxmorin;
 * [Mod Menu](https://modrinth.com/mod/modmenu) feito por Prospector;
 * [More Culling](https://modrinth.com/mod/moreculling) feito por fxmorin;
-* [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) zoom do optifine com suporte ao Quilty, feito por Ennui;
+* [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) zoom do optifine com suporte ao Quilty, feito por Ennui; (REMOVIDO POR FALTA DE SUPORTE, RECOMENDA-SE UTILIZAR ALTERNATIVAS)
 * [Sodium](https://modrinth.com/mod/sodium) feito por jellysquid3;
 * [Sodium Extra](https://modrinth.com/mod/sodium-extra) feito por FlashyReesse;
 * [Starlight](https://modrinth.com/mod/starlight) feito por spottedleaf;
