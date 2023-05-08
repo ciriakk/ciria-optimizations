@@ -1,0 +1,22 @@
+{
+  "tgttosMusic": true,
+  "hitwMusic": true,
+  "bbMusic": true,
+  "sbMusic": true,
+  "tgttosDoubleTime": true,
+  "showPlayerPreview": true,
+  "showOnHover": true,
+  "showOnOnlyCosmeticMenus": true,
+  "discordPresence": false,
+  "showGame": true,
+  "showGameInfo": true,
+  "showTimeRemaining": true,
+  "showTimeElapsed": true,
+  "showFactionLevel": true,
+  "classicHITW": false,
+  "classicHITWMusic": false,
+  "pauseConfirm": true,
+  "showFriendsInGame": true,
+  "hideSliders": true,
+  "debugMode": false
+}
