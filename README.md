@@ -31,7 +31,7 @@ Criei este repositório por achar a maioria dos modpacks focados em otimizaçõe
 ## Como instalar?
 
 Existem dois jeitos (até agora): 
-+ Via MultiMc/PolyMC (recomendado)
++ Via MultiMc/Prism Launcher (recomendado)
 + Extraindo manualmente os arquivos na sua pasta .minecraft , excluindo apenas os arquivos instances.cfg e mmc-pack.json
 
 ## As mudanças são realmente significativas? 
