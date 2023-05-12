@@ -36,8 +36,7 @@ Sim e não, vai depender muito de seu hardware e seu sistema operacional, mas em
 
 ## Posso colocar mais mods nos arquivos do meu jogo?
 
-Claro que sim, mas se acontecer qualquer erro, é por sua culpa! não tente abrir um issue sem os mods listados acima (e somente eles) instalados!
-
+Claro que sim! E caso ocorra algum erro ou incompatibilidade com algum mod, abra um issue!
 
 ## Pretende usar Optifine no futuro?
 
