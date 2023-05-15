@@ -1,10 +1,11 @@
-# ciria's optimizations 1.19x
+# cria optimizations
 ![image](https://user-images.githubusercontent.com/77357036/190875366-a82d7059-bd6c-44f8-8260-8388ad4f3221.png)
 
 Modpack personalizado com foco em otimizações para as novas versões baseado em Fabric, inicialmente feito para uso próprio.
 
+<details>
+  <summary>Lista de mods</summary>
 
-## Lista de mods
 * [Carpet Fix](https://modrinth.com/mod/carpet-fixes/version/v1.7.5) feito por fxmorin; (REMOVIDO TEMPORARIAMENTE)
 * [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) feito pelo juliand665;
 * [Enhanced Block Entities](https://modrinth.com/mod/ebe) feito pelo time FoundationGames; (REMOVIDO TEMPORARIAMENTE)
@@ -23,21 +24,22 @@ Modpack personalizado com foco em otimizações para as novas versões baseado e
 * [Sodium Extra](https://modrinth.com/mod/sodium-extra) feito por FlashyReesse;
 * [Starlight](https://modrinth.com/mod/starlight) feito por spottedleaf;
 * [Very Many Players](https://modrinth.com/mod/vmp-fabric) feito por ishland;
+* [Indium](https://modrinth.com/mod/indium) feito por comp500;
 
-## Como instalar?
+</details>
 
-Existem dois jeitos (até agora): 
-+ Via MultiMc/Prism Launcher (recomendado)
-+ Extraindo manualmente os arquivos na sua pasta .minecraft , excluindo apenas os arquivos instances.cfg e mmc-pack.json
+### Como instalar?
 
-## As mudanças são realmente significativas? 
+Visite os documentos de instalação do [modrinth!](https://docs.modrinth.com/docs/modpacks/playing_modpacks/)
+
+### As mudanças são realmente significativas? 
 
 Sim e não, vai depender muito de seu hardware e seu sistema operacional, mas em 70% dos casos acontece um ganho em questões de performance e de utilização de ram/cpu, diminuindo em até 15% o uso deles (esse número pode aumentar ou diminuir em seu hardware).
 
-## Posso colocar mais mods nos arquivos do meu jogo?
+### Posso colocar mais mods nos arquivos do meu jogo?
 
 Claro que sim! E caso ocorra algum erro ou incompatibilidade com algum mod, abra um issue!
 
-## Pretende usar Optifine no futuro?
+### Pretende usar Optifine no futuro?
 
 Nesse repositório vou apenas usar projetos Open Source, em um repositório futuro posso trazer um modpack usando Optifine.
