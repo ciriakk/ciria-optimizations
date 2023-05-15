@@ -3,7 +3,7 @@
 
 Modpack personalizado com foco em otimizações para as novas versões baseado em Fabric, inicialmente feito para uso próprio.
 
-
+## Lista de mods
 * [Carpet Fix](https://modrinth.com/mod/carpet-fixes/version/v1.7.5) feito por fxmorin; (REMOVIDO TEMPORARIAMENTE)
 * [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) feito pelo juliand665;
 * [Enhanced Block Entities](https://modrinth.com/mod/ebe) feito pelo time FoundationGames; (REMOVIDO TEMPORARIAMENTE)
