@@ -3,8 +3,6 @@
 
 Modpack personalizado com foco em otimizações para as novas versões baseado em Fabric, inicialmente feito para uso próprio.
 
-<details>
-  <summary>Lista de mods</summary>
 
 * [Carpet Fix](https://modrinth.com/mod/carpet-fixes/version/v1.7.5) feito por fxmorin; (REMOVIDO TEMPORARIAMENTE)
 * [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) feito pelo juliand665;
@@ -26,7 +24,7 @@ Modpack personalizado com foco em otimizações para as novas versões baseado e
 * [Very Many Players](https://modrinth.com/mod/vmp-fabric) feito por ishland;
 * [Indium](https://modrinth.com/mod/indium) feito por comp500;
 
-</details>
+
 
 ### Como instalar?
 
